@@ -1,0 +1,51 @@
+4) Różne widoki w grach !
+Widoki w grach to różne perspektywy na świat gry:
+•	Widok pierwszoosobowy (FPS)
+•	Widok trzeci osobowy
+•	Widok izometryczny
+•	Widok z góry (top-down)
+•	Widok poziomy (side-scrolling)
+
+
+12) Etapy produkcji gier !
+Etapy produkcji gier:
+•	Faza planowania
+•	Faza projektowania
+•	Faza implementacji
+•	Faza testowania
+•	Faza optymalizacji
+•	Faza publikacji
+
+
+17) Koncepcja tworzenia UI w unity ?
+Tworzenie UI w Unity:
+•	Używanie Canvas systemu
+•	Dodawanie UI elements (text, buttons, images)
+•	Konfiguracja layout grup
+•	Ustawianie efektów interakcji
+•	Lokalizacja tekstów
+
+
+18) Pojęcie gry !
+Gra to interaktywna forma rozrywki:
+•	Zawiera elementy zabawy i wyzwania
+•	Posługuje się grafiką i dźwiękiem
+•	Pozwala na interakcję gracza
+•	Ma celowe grupy docelowej
+
+
+21) Podstawy tworzenia animacji w unity !
+Tworzenie animacji w Unity:
+•	Używanie Animator Controller
+•	Tworzenie statków animacyjnych
+•	Dodawanie klipów animacyjnych
+•	Konfiguracja przejść między stanami
+•	Osiągnięcia i postępy gracza
+
+
+22) Różnice między klipem animacyjnym a Animatorem w unity !
+Klip animacyjny vs Animator:
+•	Klip - pojedynczy ruch lub sekwencja
+•	Animator - zarządzanie różnymi stanami
+•	Klipy łatwiejsze w użyciu, Animator bardziej elastyczny
+•	Animator umożliwia bardziej zaawansowane efekty
